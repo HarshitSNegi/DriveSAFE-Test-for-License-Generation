@@ -1,0 +1,34 @@
+from questions import questions
+
+score = 0
+
+print("DriveSAFE License Test")
+
+# LOOP STARTS
+for q in questions:
+
+    print("\n" + q["question"])
+
+    for option in q["options"]:
+        print(option)
+
+    user_answer = input("Enter your answer (A/B/C/D): ").upper()
+
+    if user_answer == q["answer"]:
+        print("Correct!")
+        score += 1
+    else:
+        print("Wrong! The correct answer is:", q["answer"])
+
+# LOOP ENDS HERE
+
+
+# RESULT SECTION
+print("\n==== RESULT ====")
+
+print(f"Your score is {score}/{len(questions)}")
+
+if score >= 20:
+    print("PASS — License Approved")
+else:
+    print("FAIL — License Rejected")
