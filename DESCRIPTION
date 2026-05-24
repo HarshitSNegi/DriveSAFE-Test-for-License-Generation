@@ -1,0 +1,12 @@
+Step1: creating a basic console query
+process: ask questions :: take answers :: check correct ones and wrong ones :: calculate score :: print pass/fail
+
+Creatinng a folder-- inside it create main.py and questions.py
+
+questions.py include questions ; all 25 
+main.py include the logic needed to build it (the back process)
+
+LAST- Opening terminal in folder RUN: bash : python main.py 
+
+Later I may add timer, SQlite database, license geenration, GUI, Colored termina, categories
+
