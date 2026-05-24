@@ -1,0 +1,127 @@
+questions=[
+  {
+    "question": "What does a red traffic light mean?",
+    "options": ["A. Stop", "B. Go", "C. Slow down", "D. Turn left"],
+    "answer": "A"
+  },
+  {
+    "question": "At Zebra crossing, drivers should?",
+    "options": ["A. Sped up", "B. Stop for pedestrians", "C. Honk continuously", "D. Ignore pedestrians"],
+    "answer": "B"
+  },
+  {
+    "question": "Using a mobile phone while driving is?",
+    "options": ["A. safe", "B. allowed anytime", "C. Dangerous and illegal", "D. Recommended"],
+    "answer": "C"
+  },
+  {
+    "question": "The maximum speed in school zones should be?",
+    "options": ["A. High", "B. moderate", "C. slow and controlled", "D. unlimited"],
+    "answer": "C"
+  },
+  {
+    "question": "Seat belts are?",
+    "options": ["A. optional", "B. only for highways", "C. mandatory", "D. only for drivers"],
+    "answer": "C"
+  },
+  {
+    "question": "Overtaking is allowed from?",
+    "options": ["A. Left side", "B. Right side", "C. any side", "D. footpath"],
+    "answer": "B"
+  },
+  {
+    "question": "You should use indicator lights when?",
+    "options": ["A. Only at night", "B. While turning or changing sides", "C. never", "D. Only on highways"],
+    "answer": "B"
+  },
+  {
+    "question": "Driving under the influence of alcohol is?",
+    "options": ["A. Safe", "B. Illegal", "C. Recommended", "D. common"],
+    "answer": "B"
+  },
+  {
+    "question": "A triangular road sign usually means?",
+    "options": ["A. warning", "B. Hospital", "C. parking", "D. Fuel Station"],
+    "answer": "A"
+  },
+  {
+    "question": "A circular sign with red border generally means?",
+    "options": ["A. Information", "B. Restriction", "C. Celebration", "D. Parking"],
+    "answer": "B"
+  },
+  {
+    "question": "What does a \"P\" sign indicate?",
+    "options": ["A. Petrol pump", "B. Parking", "C. Police Station", "D. Pedestrian crossing"],
+    "answer": "B"
+  },
+  {
+    "question": "A red octagon sign means?",
+    "options": ["A. Go", "B. Speed limit", "C. Stop", "D. Parking"],
+    "answer": "C"
+  },
+  {
+    "question": "Yellow blinking traffic light means?",
+    "options": ["A. Stop completely", "B. Ignore signal", "C. Drive fast", "D. Proceed cautiously"],
+    "answer": "D"
+  },
+  {
+    "question": "A school crossing sign warns drivers about?",
+    "options": ["A. Hospitals", "B. Railway crossing", "C. Children crossing", "D. Parking"],
+    "answer": "C"
+  },
+  {
+    "question": "Before starting a vehicle, you should?",
+    "options": ["A. Honk", "B. Check mirrors", "C. Accelerate", "D. Turn off lights"],
+    "answer": "B"
+  },
+  {
+    "question": "Helmet is compulsory for?",
+    "options": ["A. Car drivers", "B. Bike riders", "C. Pedestrians", "D. cyclists only"],
+    "answer": "B"
+  },
+  {
+    "question": "Safe distance from front vehicle helps avoid?",
+    "options": ["A. Fuel saving", "B. Accidents", "C. Parking", "D. Traffic lights"],
+    "answer": "B"
+  },
+  {
+    "question": "Headlights should be dipped during?",
+    "options": ["A. Daytime", "B. Night with oncoming traffic", "C. Empty roads", "D. Parking"],
+    "answer": "B"
+  },
+  {
+    "question": "If brakes fail, you should?",
+    "options": ["A. Panic", "B. Increase speed", "C. Use handbrake carefully", "D. Jump out"],
+    "answer": "C"
+  },
+  {
+    "question": "After an accident, first priority is?",
+    "options": ["A. Run away", "B. Help injured people", "C. Argue", "D. Take photos"],
+    "answer": "B"
+  },
+  {
+    "question": "An ambulance with siren should be?",
+    "options": ["A. Ignored", "B. Given way immediately", "C. Overtaken", "D. Blocked"],
+    "answer": "B"
+  },
+  {
+    "question": "If your vehicle catches fire, you should?",
+    "options": ["A. Pour petrol", "B. Stop safely and use extinguisher", "C. Drive faster", "D. Ignore it"],
+    "answer": "B"
+  },
+  {
+    "question": "The function of brakes is to?",
+    "options": ["A. Increase speed", "B. Stop vehicle", "C. Cool engine", "D. Change gears"],
+    "answer": "B"
+  },
+  {
+    "question": "Tyre pressure should be checked:",
+    "options": ["A. Regularly", "B. Never", "C. Once a year", "D. Only during rain"],
+    "answer": "A"
+  },
+  {
+    "question": "Engine oil helps in:",
+    "options": ["A. Decoration", "B. Lubrication", "C. Lighting", "D. Cooling passengers"],
+    "answer": "B"
+  }
+]
